@@ -1,0 +1,19 @@
+nav {
+    display: flex; /* Use flexbox to control alignment */
+    background-color: #383737; /* Dark background color */
+    color: white;
+    padding: 10px; /* Add some padding */
+    justify-content: space-between; /* Space between title and links */
+    align-items: center; /* Vertically center items */
+  }
+
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  
+  
+  
